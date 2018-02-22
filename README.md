@@ -1,3 +1,3 @@
-Convert numbers to multilingual Words
+Convert a number to multilingual Words
 
-This app written in JavaScript converts numbers into words in three different languages: English, French and Spanish. 
+This app written in JavaScript converts a number into words in three different languages: English, French and Spanish. 
